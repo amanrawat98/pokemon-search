@@ -1,0 +1,42 @@
+
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: bisque;
+  margin-top: 8rem;
+  
+}
+
+.inputdata {
+  margin-top: 1rem;
+}
+
+.inputdata input {
+  height: 2.3rem;
+  width: 18rem;
+  font-size: 1.2rem;
+}
+
+.inputdata button {
+  height: 2.3rem;
+  width: 5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#pokemon-img {
+  height: 213px;
+  width: 253px;
+}
